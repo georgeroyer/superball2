@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 80fe7670f6b2cd54c95b36ada20be1aa
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface117
+      GeminiSuit:polySurface1
+    100004: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface119
+      GeminiSuit:polySurface1
+    100006: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface120
+      GeminiSuit:polySurface1
+    100008: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface121
+      GeminiSuit:polySurface1
+    100010: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface122
+      GeminiSuit:polySurface1
+    100012: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface128
+      GeminiSuit:polySurface1
+    100014: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface129
+      GeminiSuit:polySurface1
+    100016: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface130
+      GeminiSuit:polySurface1
+    100018: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface131
+      GeminiSuit:polySurface1
+    100020: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface132
+      GeminiSuit:polySurface1
+    100022: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface133
+      GeminiSuit:polySurface1
+    100024: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface134
+      GeminiSuit:polySurface1
+    100026: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface135
+      GeminiSuit:polySurface1
+    100028: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface136
+      GeminiSuit:polySurface1
+    100030: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface137
+      GeminiSuit:polySurface1
+    100032: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface138
+      GeminiSuit:polySurface1
+    100034: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface139
+      GeminiSuit:polySurface1
+    100036: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface140
+      GeminiSuit:polySurface1
+    100038: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface141
+      GeminiSuit:polySurface1
+    100040: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface142
+      GeminiSuit:polySurface1
+    100042: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface143
+      GeminiSuit:polySurface1
+    100044: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface147
+      GeminiSuit:polySurface1
+    100046: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface148
+      GeminiSuit:polySurface1
+    100048: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface149
+      GeminiSuit:polySurface1
+    100050: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface102 GeminiSuit:polySurface1
+    100052: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface103 GeminiSuit:polySurface1
+    100054: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface104 GeminiSuit:polySurface1
+    100056: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface105 GeminiSuit:polySurface1
+    100058: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface106 GeminiSuit:polySurface1
+    100060: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface107 GeminiSuit:polySurface1
+    100062: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface108 GeminiSuit:polySurface1
+    100064: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface109 GeminiSuit:polySurface1
+    100066: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface110 GeminiSuit:polySurface1
+    100068: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface111 GeminiSuit:polySurface1
+    100070: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface112 GeminiSuit:polySurface1
+    100072: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface113 GeminiSuit:polySurface1
+    100074: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface114 GeminiSuit:polySurface1
+    100076: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface115 GeminiSuit:polySurface1
+    100078: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface116 GeminiSuit:polySurface1
+    100080: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface118 GeminiSuit:polySurface1
+    100082: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface146 GeminiSuit:polySurface1
+    100084: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface150 GeminiSuit:polySurface1
+    100086: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface151 GeminiSuit:polySurface1
+    100088: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface152 GeminiSuit:polySurface1
+    100090: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface153 GeminiSuit:polySurface1
+    100092: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface154 GeminiSuit:polySurface1
+    100094: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface155 GeminiSuit:polySurface1
+    100096: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface123 GeminiSuit:polySurface1
+    100098: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface124 GeminiSuit:polySurface1
+    100100: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface125 GeminiSuit:polySurface1
+    100102: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface126 GeminiSuit:polySurface1
+    100104: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface127 GeminiSuit:polySurface1
+    400000: //RootNode
+    400002: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface117
+      GeminiSuit:polySurface1
+    400004: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface119
+      GeminiSuit:polySurface1
+    400006: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface120
+      GeminiSuit:polySurface1
+    400008: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface121
+      GeminiSuit:polySurface1
+    400010: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface122
+      GeminiSuit:polySurface1
+    400012: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface128
+      GeminiSuit:polySurface1
+    400014: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface129
+      GeminiSuit:polySurface1
+    400016: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface130
+      GeminiSuit:polySurface1
+    400018: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface131
+      GeminiSuit:polySurface1
+    400020: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface132
+      GeminiSuit:polySurface1
+    400022: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface133
+      GeminiSuit:polySurface1
+    400024: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface134
+      GeminiSuit:polySurface1
+    400026: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface135
+      GeminiSuit:polySurface1
+    400028: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface136
+      GeminiSuit:polySurface1
+    400030: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface137
+      GeminiSuit:polySurface1
+    400032: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface138
+      GeminiSuit:polySurface1
+    400034: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface139
+      GeminiSuit:polySurface1
+    400036: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface140
+      GeminiSuit:polySurface1
+    400038: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface141
+      GeminiSuit:polySurface1
+    400040: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface142
+      GeminiSuit:polySurface1
+    400042: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface143
+      GeminiSuit:polySurface1
+    400044: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface147
+      GeminiSuit:polySurface1
+    400046: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface148
+      GeminiSuit:polySurface1
+    400048: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface149
+      GeminiSuit:polySurface1
+    400050: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface102 GeminiSuit:polySurface1
+    400052: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface103 GeminiSuit:polySurface1
+    400054: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface104 GeminiSuit:polySurface1
+    400056: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface105 GeminiSuit:polySurface1
+    400058: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface106 GeminiSuit:polySurface1
+    400060: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface107 GeminiSuit:polySurface1
+    400062: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface108 GeminiSuit:polySurface1
+    400064: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface109 GeminiSuit:polySurface1
+    400066: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface110 GeminiSuit:polySurface1
+    400068: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface111 GeminiSuit:polySurface1
+    400070: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface112 GeminiSuit:polySurface1
+    400072: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface113 GeminiSuit:polySurface1
+    400074: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface114 GeminiSuit:polySurface1
+    400076: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface115 GeminiSuit:polySurface1
+    400078: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface116 GeminiSuit:polySurface1
+    400080: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface118 GeminiSuit:polySurface1
+    400082: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface146 GeminiSuit:polySurface1
+    400084: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface150 GeminiSuit:polySurface1
+    400086: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface151 GeminiSuit:polySurface1
+    400088: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface152 GeminiSuit:polySurface1
+    400090: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface153 GeminiSuit:polySurface1
+    400092: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface154 GeminiSuit:polySurface1
+    400094: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface155 GeminiSuit:polySurface1
+    400096: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface123 GeminiSuit:polySurface1
+    400098: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface124 GeminiSuit:polySurface1
+    400100: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface125 GeminiSuit:polySurface1
+    400102: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface126 GeminiSuit:polySurface1
+    400104: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface127 GeminiSuit:polySurface1
+    2300000: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface117
+      GeminiSuit:polySurface1
+    2300002: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface119
+      GeminiSuit:polySurface1
+    2300004: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface120
+      GeminiSuit:polySurface1
+    2300006: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface121
+      GeminiSuit:polySurface1
+    2300008: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface122
+      GeminiSuit:polySurface1
+    2300010: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface128
+      GeminiSuit:polySurface1
+    2300012: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface129
+      GeminiSuit:polySurface1
+    2300014: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface130
+      GeminiSuit:polySurface1
+    2300016: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface131
+      GeminiSuit:polySurface1
+    2300018: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface132
+      GeminiSuit:polySurface1
+    2300020: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface133
+      GeminiSuit:polySurface1
+    2300022: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface134
+      GeminiSuit:polySurface1
+    2300024: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface135
+      GeminiSuit:polySurface1
+    2300026: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface136
+      GeminiSuit:polySurface1
+    2300028: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface137
+      GeminiSuit:polySurface1
+    2300030: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface138
+      GeminiSuit:polySurface1
+    2300032: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface139
+      GeminiSuit:polySurface1
+    2300034: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface140
+      GeminiSuit:polySurface1
+    2300036: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface141
+      GeminiSuit:polySurface1
+    2300038: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface142
+      GeminiSuit:polySurface1
+    2300040: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface143
+      GeminiSuit:polySurface1
+    2300042: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface147
+      GeminiSuit:polySurface1
+    2300044: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface148
+      GeminiSuit:polySurface1
+    2300046: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface149
+      GeminiSuit:polySurface1
+    2300048: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface102 GeminiSuit:polySurface1
+    2300050: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface103 GeminiSuit:polySurface1
+    2300052: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface104 GeminiSuit:polySurface1
+    2300054: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface105 GeminiSuit:polySurface1
+    2300056: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface106 GeminiSuit:polySurface1
+    2300058: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface107 GeminiSuit:polySurface1
+    2300060: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface108 GeminiSuit:polySurface1
+    2300062: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface109 GeminiSuit:polySurface1
+    2300064: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface110 GeminiSuit:polySurface1
+    2300066: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface111 GeminiSuit:polySurface1
+    2300068: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface112 GeminiSuit:polySurface1
+    2300070: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface113 GeminiSuit:polySurface1
+    2300072: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface114 GeminiSuit:polySurface1
+    2300074: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface115 GeminiSuit:polySurface1
+    2300076: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface116 GeminiSuit:polySurface1
+    2300078: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface118 GeminiSuit:polySurface1
+    2300080: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface146 GeminiSuit:polySurface1
+    2300082: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface150 GeminiSuit:polySurface1
+    2300084: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface151 GeminiSuit:polySurface1
+    2300086: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface152 GeminiSuit:polySurface1
+    2300088: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface153 GeminiSuit:polySurface1
+    2300090: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface154 GeminiSuit:polySurface1
+    2300092: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface155 GeminiSuit:polySurface1
+    2300094: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface123 GeminiSuit:polySurface1
+    2300096: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface124 GeminiSuit:polySurface1
+    2300098: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface125 GeminiSuit:polySurface1
+    2300100: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface126 GeminiSuit:polySurface1
+    2300102: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface127 GeminiSuit:polySurface1
+    3300000: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface117
+      GeminiSuit:polySurface1
+    3300002: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface119
+      GeminiSuit:polySurface1
+    3300004: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface120
+      GeminiSuit:polySurface1
+    3300006: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface121
+      GeminiSuit:polySurface1
+    3300008: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface122
+      GeminiSuit:polySurface1
+    3300010: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface128
+      GeminiSuit:polySurface1
+    3300012: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface129
+      GeminiSuit:polySurface1
+    3300014: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface130
+      GeminiSuit:polySurface1
+    3300016: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface131
+      GeminiSuit:polySurface1
+    3300018: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface132
+      GeminiSuit:polySurface1
+    3300020: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface133
+      GeminiSuit:polySurface1
+    3300022: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface134
+      GeminiSuit:polySurface1
+    3300024: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface135
+      GeminiSuit:polySurface1
+    3300026: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface136
+      GeminiSuit:polySurface1
+    3300028: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface137
+      GeminiSuit:polySurface1
+    3300030: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface138
+      GeminiSuit:polySurface1
+    3300032: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface139
+      GeminiSuit:polySurface1
+    3300034: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface140
+      GeminiSuit:polySurface1
+    3300036: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface141
+      GeminiSuit:polySurface1
+    3300038: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface142
+      GeminiSuit:polySurface1
+    3300040: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface143
+      GeminiSuit:polySurface1
+    3300042: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface147
+      GeminiSuit:polySurface1
+    3300044: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface148
+      GeminiSuit:polySurface1
+    3300046: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface149
+      GeminiSuit:polySurface1
+    3300048: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface102 GeminiSuit:polySurface1
+    3300050: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface103 GeminiSuit:polySurface1
+    3300052: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface104 GeminiSuit:polySurface1
+    3300054: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface105 GeminiSuit:polySurface1
+    3300056: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface106 GeminiSuit:polySurface1
+    3300058: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface107 GeminiSuit:polySurface1
+    3300060: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface108 GeminiSuit:polySurface1
+    3300062: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface109 GeminiSuit:polySurface1
+    3300064: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface110 GeminiSuit:polySurface1
+    3300066: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface111 GeminiSuit:polySurface1
+    3300068: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface112 GeminiSuit:polySurface1
+    3300070: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface113 GeminiSuit:polySurface1
+    3300072: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface114 GeminiSuit:polySurface1
+    3300074: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface115 GeminiSuit:polySurface1
+    3300076: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface116 GeminiSuit:polySurface1
+    3300078: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface118 GeminiSuit:polySurface1
+    3300080: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface146 GeminiSuit:polySurface1
+    3300082: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface150 GeminiSuit:polySurface1
+    3300084: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface151 GeminiSuit:polySurface1
+    3300086: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface152 GeminiSuit:polySurface1
+    3300088: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface153 GeminiSuit:polySurface1
+    3300090: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface154 GeminiSuit:polySurface1
+    3300092: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface155 GeminiSuit:polySurface1
+    3300094: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface123 GeminiSuit:polySurface1
+    3300096: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface124 GeminiSuit:polySurface1
+    3300098: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface125 GeminiSuit:polySurface1
+    3300100: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface126 GeminiSuit:polySurface1
+    3300102: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface127 GeminiSuit:polySurface1
+    4300000: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface117
+      GeminiSuit:polySurface1
+    4300002: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface119
+      GeminiSuit:polySurface1
+    4300004: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface120
+      GeminiSuit:polySurface1
+    4300006: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface121
+      GeminiSuit:polySurface1
+    4300008: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface122
+      GeminiSuit:polySurface1
+    4300010: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface128
+      GeminiSuit:polySurface1
+    4300012: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface129
+      GeminiSuit:polySurface1
+    4300014: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface130
+      GeminiSuit:polySurface1
+    4300016: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface131
+      GeminiSuit:polySurface1
+    4300018: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface132
+      GeminiSuit:polySurface1
+    4300020: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface133
+      GeminiSuit:polySurface1
+    4300022: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface134
+      GeminiSuit:polySurface1
+    4300024: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface135
+      GeminiSuit:polySurface1
+    4300026: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface136
+      GeminiSuit:polySurface1
+    4300028: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface137
+      GeminiSuit:polySurface1
+    4300030: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface138
+      GeminiSuit:polySurface1
+    4300032: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface139
+      GeminiSuit:polySurface1
+    4300034: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface140
+      GeminiSuit:polySurface1
+    4300036: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface141
+      GeminiSuit:polySurface1
+    4300038: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface142
+      GeminiSuit:polySurface1
+    4300040: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface143
+      GeminiSuit:polySurface1
+    4300042: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface147
+      GeminiSuit:polySurface1
+    4300044: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface148
+      GeminiSuit:polySurface1
+    4300046: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group10 GeminiSuit:polySurface149
+      GeminiSuit:polySurface1
+    4300048: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface102 GeminiSuit:polySurface1
+    4300050: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface103 GeminiSuit:polySurface1
+    4300052: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface104 GeminiSuit:polySurface1
+    4300054: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface105 GeminiSuit:polySurface1
+    4300056: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface106 GeminiSuit:polySurface1
+    4300058: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface107 GeminiSuit:polySurface1
+    4300060: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface108 GeminiSuit:polySurface1
+    4300062: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface109 GeminiSuit:polySurface1
+    4300064: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface110 GeminiSuit:polySurface1
+    4300066: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface111 GeminiSuit:polySurface1
+    4300068: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface112 GeminiSuit:polySurface1
+    4300070: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface113 GeminiSuit:polySurface1
+    4300072: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface114 GeminiSuit:polySurface1
+    4300074: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface115 GeminiSuit:polySurface1
+    4300076: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface116 GeminiSuit:polySurface1
+    4300078: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface118 GeminiSuit:polySurface1
+    4300080: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface146 GeminiSuit:polySurface1
+    4300082: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface150 GeminiSuit:polySurface1
+    4300084: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface151 GeminiSuit:polySurface1
+    4300086: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface152 GeminiSuit:polySurface1
+    4300088: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface153 GeminiSuit:polySurface1
+    4300090: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface154 GeminiSuit:polySurface1
+    4300092: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group11 GeminiSuit:group12
+      GeminiSuit:group13 GeminiSuit:polySurface155 GeminiSuit:polySurface1
+    4300094: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface123 GeminiSuit:polySurface1
+    4300096: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface124 GeminiSuit:polySurface1
+    4300098: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface125 GeminiSuit:polySurface1
+    4300100: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface126 GeminiSuit:polySurface1
+    4300102: GeminiSuit:Gemini9_sized_group14_GeminiSuit:group9 GeminiSuit:group13
+      GeminiSuit:polySurface127 GeminiSuit:polySurface1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
