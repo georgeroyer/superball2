@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 30d42ff74d178d44fbdc6345b66c3310
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Cubeprefab: {instanceID: 0}
+  - cubeorigin: {fileID: 196258, guid: b5afa7c4973446446b7df23c1a12913d, type: 2}
+  - MainCamera: {instanceID: 0}
+  - creation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

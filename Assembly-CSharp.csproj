@@ -634,6 +634,7 @@
      <Compile Include="Assets\ICode\Scripts\Runtime\Variables\SerializedVariable.cs" />
      <Compile Include="Assets\ICode\Scripts\Runtime\Variables\SetGlobalGameObject.cs" />
      <Compile Include="Assets\Prefabs\NewBehaviourScript.cs" />
+     <Compile Include="Assets\RagControlObj.cs" />
      <Compile Include="Assets\TerrainToolkit\TerrainToolkit.cs" />
      <Compile Include="Assets\catorbit.cs" />
      <Compile Include="Assets\cubemaker2.cs" />
@@ -645,6 +646,7 @@
      <Compile Include="Assets\reversenormals.cs" />
      <Compile Include="Assets\scripts\Blast.cs" />
      <Compile Include="Assets\scripts\BoundaryDestroy.cs" />
+     <Compile Include="Assets\scripts\NewRagCont.cs" />
      <Compile Include="Assets\scripts\PickUpObject.cs" />
      <Compile Include="Assets\scripts\Pickupable.cs" />
      <Compile Include="Assets\scripts\RetroPixel.cs" />
@@ -654,8 +656,6 @@
      <Compile Include="Assets\scripts\canHit.cs" />
      <Compile Include="Assets\scripts\carmaker.cs" />
      <Compile Include="Assets\scripts\catcontroller.cs" />
-     <Compile Include="Assets\scripts\coll_trigger.cs" />
-     <Compile Include="Assets\scripts\cubecolltest.cs" />
      <Compile Include="Assets\scripts\cubemaker.cs" />
      <Compile Include="Assets\scripts\domeRotator.cs" />
      <Compile Include="Assets\scripts\footsteps.cs" />
