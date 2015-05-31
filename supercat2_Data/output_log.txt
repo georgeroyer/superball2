@@ -1,0 +1,24 @@
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\George\Documents\superball\supercat2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\George\Documents\superball\supercat2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\superball\supercat2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\George\Documents\superball\supercat2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\superball\supercat2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\George\Documents\superball\supercat2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\superball\supercat2_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\George\Documents\superball\supercat2_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\superball\supercat2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\George\Documents\superball\supercat2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Documents\superball\supercat2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\George\Documents\superball\supercat2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.285 seconds
+desktop: 1920x1080 60Hz; virtual: 4320x1350 at -2400,0
+<RI> Initializing input.
+<RI> Input initialized.
