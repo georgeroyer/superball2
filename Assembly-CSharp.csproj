@@ -641,6 +641,7 @@
      <Compile Include="Assets\doubledomerotator.cs" />
      <Compile Include="Assets\drawline.cs" />
      <Compile Include="Assets\enemymover.cs" />
+     <Compile Include="Assets\prayercuberotate.cs" />
      <Compile Include="Assets\reversedomeRotator.cs" />
      <Compile Include="Assets\reversedoubledomerotator.cs" />
      <Compile Include="Assets\reversenormals.cs" />

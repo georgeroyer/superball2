@@ -121,7 +121,7 @@ void checkThrow (){
 
 		//throwdirection = (MainCamera.transform.forward);
 
-		carriedObject.gameObject.rigidbody.AddTorque (Camera.main.transform.forward * speed);
+		//carriedObject.gameObject.rigidbody.AddTorque (Camera.main.transform.forward * speed);
 		carriedObject.gameObject.rigidbody.AddForce (Camera.main.transform.forward * speed);
 
 		//carriedObject.gameObject.rigidbody.AddForce 
