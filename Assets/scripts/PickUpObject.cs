@@ -5,8 +5,8 @@ public class PickUpObject : MonoBehaviour {
 
 	GameObject grabpoint;
 	GameObject holdpoint;
-	bool carrying;
-	bool held;
+	public static bool carrying;
+	public bool held;
 	GameObject carriedObject;
 	public float distance;
 	public float smooth;
@@ -86,7 +86,7 @@ void holding (GameObject o){
 
 
 
-void pickup(){
+public void pickup(){
 
 		if (Input.GetButtonDown("Fire1")) {
 int x = Screen.width / 2;
@@ -114,7 +114,7 @@ void checkThrow (){
 			throwObject ();
 		}
 	}
- void throwObject (){
+ public void throwObject (){
 		carrying = false;
 		held = false;
 		carriedObject.gameObject.rigidbody.isKinematic = false;

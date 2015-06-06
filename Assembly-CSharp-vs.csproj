@@ -19,7 +19,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_4_6_4;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_PRO_LICENSE</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_4;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_PRO_LICENSE;CROSS_PLATFORM_INPUT</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -57,10 +57,6 @@
      <Compile Include="Assets\!KAM3RA\KAM3RA\Classes\Actor.cs" />
      <Compile Include="Assets\!KAM3RA\KAM3RA\Classes\Range.cs" />
      <Compile Include="Assets\!KAM3RA\KAM3RA\Classes\User.cs" />
-     <Compile Include="Assets\AnimatorToRagdoll.cs" />
-     <Compile Include="Assets\EnemyAnimation.cs" />
-     <Compile Include="Assets\EnemySight.cs" />
-     <Compile Include="Assets\FreelookCamera\Scripts\FreelookCamera.cs" />
      <Compile Include="Assets\ICode\Scripts\Runtime\Actions\Animation\AddClip.cs" />
      <Compile Include="Assets\ICode\Scripts\Runtime\Actions\Animation\AddMixingTransform.cs" />
      <Compile Include="Assets\ICode\Scripts\Runtime\Actions\Animation\AnimationAction.cs" />
@@ -633,38 +629,40 @@
      <Compile Include="Assets\ICode\Scripts\Runtime\Variables\GlobalVariables.cs" />
      <Compile Include="Assets\ICode\Scripts\Runtime\Variables\SerializedVariable.cs" />
      <Compile Include="Assets\ICode\Scripts\Runtime\Variables\SetGlobalGameObject.cs" />
+     <Compile Include="Assets\KillPlayer.cs" />
+     <Compile Include="Assets\PickUpDetector.cs" />
      <Compile Include="Assets\Prefabs\NewBehaviourScript.cs" />
-     <Compile Include="Assets\RagControlObj.cs" />
+     <Compile Include="Assets\SceneFadeInOut.cs" />
      <Compile Include="Assets\TerrainToolkit\TerrainToolkit.cs" />
-     <Compile Include="Assets\catorbit.cs" />
-     <Compile Include="Assets\cubemaker2.cs" />
-     <Compile Include="Assets\doubledomerotator.cs" />
-     <Compile Include="Assets\drawline.cs" />
+     <Compile Include="Assets\catdamage.cs" />
      <Compile Include="Assets\enemymover.cs" />
-     <Compile Include="Assets\prayercuberotate.cs" />
-     <Compile Include="Assets\reversedomeRotator.cs" />
-     <Compile Include="Assets\reversedoubledomerotator.cs" />
-     <Compile Include="Assets\reversenormals.cs" />
      <Compile Include="Assets\scripts\Blast.cs" />
      <Compile Include="Assets\scripts\BoundaryDestroy.cs" />
+     <Compile Include="Assets\scripts\CatHealth.cs" />
      <Compile Include="Assets\scripts\NewRagCont.cs" />
      <Compile Include="Assets\scripts\PickUpObject.cs" />
      <Compile Include="Assets\scripts\Pickupable.cs" />
+     <Compile Include="Assets\scripts\PlayerHealth.cs" />
      <Compile Include="Assets\scripts\RetroPixel.cs" />
-     <Compile Include="Assets\scripts\better pickup backup.cs" />
-     <Compile Include="Assets\scripts\betterPickUpObject.cs" />
      <Compile Include="Assets\scripts\camerascript.cs" />
      <Compile Include="Assets\scripts\canHit.cs" />
      <Compile Include="Assets\scripts\carmaker.cs" />
      <Compile Include="Assets\scripts\catcontroller.cs" />
      <Compile Include="Assets\scripts\cubemaker.cs" />
+     <Compile Include="Assets\scripts\cubemaker2.cs" />
      <Compile Include="Assets\scripts\domeRotator.cs" />
+     <Compile Include="Assets\scripts\doubledomerotator.cs" />
      <Compile Include="Assets\scripts\footsteps.cs" />
      <Compile Include="Assets\scripts\jumpcube.cs" />
      <Compile Include="Assets\scripts\jumpsphere.cs" />
      <Compile Include="Assets\scripts\playercontroller.cs" />
+     <Compile Include="Assets\scripts\prayercuberotate.cs" />
+     <Compile Include="Assets\scripts\psilaser.cs" />
      <Compile Include="Assets\scripts\ragdollControl.cs" />
      <Compile Include="Assets\scripts\ragmaker.cs" />
+     <Compile Include="Assets\scripts\reversedomeRotator.cs" />
+     <Compile Include="Assets\scripts\reversedoubledomerotator.cs" />
+     <Compile Include="Assets\scripts\reversenormals.cs" />
      <Compile Include="Assets\scripts\rotator.cs" />
      <Compile Include="Assets\scripts\towerraiser.cs" />
      <Compile Include="Assets\skysphererotator.cs" />
@@ -760,7 +758,6 @@
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\EdgeDetectNormals.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\PrepareSunShaftsBlur.shader" />
-     <None Include="Assets\FreelookCamera\Readme.txt" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\Blend.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlendModesOverlay.shader" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\WaterInclude.cginc" />
