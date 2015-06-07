@@ -7,7 +7,7 @@ public class PickUpDetector : MonoBehaviour {
 	public Camera mainCamera;
 	private bool pickupcheck;
 	GameObject rumbleObject;
-	public float speed; 
+	public float lift; 
 	int layerMask = 1 << 9;
 	//private bool carrying;
 
@@ -42,7 +42,7 @@ public class PickUpDetector : MonoBehaviour {
 			Pickupable p = hit.collider.GetComponent<Pickupable> ();
 			if (p != null) {
 				print (" pick up at camera center");
-				p.rigidbody.AddForce(0,40,0);
+				p.rigidbody.AddForce(0,lift,0);
 				//rumbleObject = p.gameObject;
 				//rumbleObject.transform.Rotate (new Vector3 (1, 1, 0) * Time.deltaTime);;
 				//rumbleObject.rigidbody.AddForce (0, 100, 0); 
@@ -50,9 +50,7 @@ public class PickUpDetector : MonoBehaviour {
 		}
 	}
 
-	void Shake (){
-	rumbleObject.gameObject.rigidbody.AddForce (0, speed, 0);
-}
+
 }
 	//void Shake (GameObject rumbleObject){
 	//	rumbleObject.rigidbody.AddForce (0, 100, 0);

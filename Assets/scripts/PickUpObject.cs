@@ -16,8 +16,20 @@ public class PickUpObject : MonoBehaviour {
 	public GameObject MainCamera;
 	private Vector3 SpawnPosition;
 	private Vector3 dir;
+	public Camera mainCamera;
+	int layerMask = 1 << 9;
+	private bool pickupcheck;
+
+
 
 	// Use this for initialization
+
+	void Awake (){
+		mainCamera = GameObject.FindGameObjectWithTag ("MainCamera").GetComponent<Camera>();
+		pickupcheck = GameObject.FindGameObjectWithTag ("Player").GetComponent<PickUpObject>();
+		int layerMask = 1 << 8;
+	}
+
 	void Start() {
 
 		grabpoint = GameObject.FindWithTag("grabpoint"); 
@@ -93,17 +105,25 @@ int x = Screen.width / 2;
 int y = Screen.height /2;
 
 //Ray ray = grabpoint.transform.forward.ScreenPointToRay(new Vector3(x,y));
-			Ray ray = grabpoint.camera.ScreenPointToRay(new Vector3 (x,y));
+			//Ray ray = grabpoint.camera.ScreenPointToRay(new Vector3 (x,y));
+			Ray ray = mainCamera.ScreenPointToRay (new Vector3 (Screen.width / 2, Screen.height / 2, 0));
 			RaycastHit hit;
+			if (Physics.Raycast (ray, out hit, Mathf.Infinity, layerMask)) {
+				Pickupable p = hit.collider.GetComponent<Pickupable> ();
+				if (p != null) {
+					carrying = true;
+					carriedObject = p.gameObject;
+				}
 
-				if(Physics.Raycast(ray, out hit)){
+				/* 
+				 * if(Physics.Raycast(ray, out hit)){
 					Pickupable p = hit.collider.GetComponent<Pickupable>();
 						if(p != null){
 							carrying = true;
 								carriedObject = p.gameObject;
+								*/
 
 
-}
 }
 }
 }
@@ -119,13 +139,16 @@ void checkThrow (){
 		held = false;
 		carriedObject.gameObject.rigidbody.isKinematic = false;
 
-		//throwdirection = (MainCamera.transform.forward);
 
 		//carriedObject.gameObject.rigidbody.AddTorque (Camera.main.transform.forward * speed);
-		carriedObject.gameObject.rigidbody.AddForce (Camera.main.transform.forward * speed);
 
-		//carriedObject.gameObject.rigidbody.AddForce 
-			//(throwdirection * speed, 0, 0);
+		/* 6-7
+		carriedObject.gameObject.rigidbody.AddForce (Camera.main.transform.forward * speed);
+		*/
+
+		carriedObject.gameObject.rigidbody.AddForce (mainCamera.transform.forward * speed);
+
+
 
 	 	
 
