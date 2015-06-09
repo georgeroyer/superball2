@@ -144,12 +144,15 @@ void checkThrow (){
 
 		midScreen = mainCamera.camera.ViewportToWorldPoint (new Vector3 (.5f, .5f, 100f));
 		//carriedObject.gameObject.rigidbody.AddForce (Camera.main.transform.forward * speed);
-
-		//dir = midScreen - carriedObject.transform.position ;
+		dir = midScreen;
+		carriedObject.rigidbody.AddRelativeForce (dir * speed);
+		/*
 		dir = carriedObject.transform.position - midScreen ;
 		dir = dir.normalized;
 		carriedObject.rigidbody.AddRelativeForce (dir * speed);
+		TURNED OFF 6-9
 
+*/
 
 		Clone.rigidbody.isKinematic = false; 
 		Clone.gameObject.rigidbody.AddForce (0, 0, 1 * 50);
