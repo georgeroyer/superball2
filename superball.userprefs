@@ -1,11 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\pickupdetectorbackup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PickUpObject.cs">
     <Files>
-      <File FileName="Assets\scripts\pickupdetectorbackup.cs" Line="62" Column="1" />
-      <File FileName="Assets\crosshair.cs" Line="1" Column="1" />
-      <File FileName="Assets\PickUpDetector.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\PickUpObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PickUpObject.cs" Line="151" Column="139" />
+      <File FileName="Assets\scripts\cubemaker.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Blast.cs" Line="22" Column="61" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

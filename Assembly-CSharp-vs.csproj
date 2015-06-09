@@ -657,6 +657,7 @@
      <Compile Include="Assets\scripts\jumpcube.cs" />
      <Compile Include="Assets\scripts\jumpsphere.cs" />
      <Compile Include="Assets\scripts\pickupablebackup.cs" />
+     <Compile Include="Assets\scripts\pickupbackup68.cs" />
      <Compile Include="Assets\scripts\pickupdetectorbackup.cs" />
      <Compile Include="Assets\scripts\playercontroller.cs" />
      <Compile Include="Assets\scripts\prayercuberotate.cs" />
